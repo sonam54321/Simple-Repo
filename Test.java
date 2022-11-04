@@ -1,3 +1,3 @@
-public class Simple{
+public class Simple2{
 
 }
